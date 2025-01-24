@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 22" height="22" width="20">
+<g id="Security Icon">
+<path stroke-linejoin="round" stroke-width="1.66667" stroke="#858E96" d="M8.6462 2.10169L2.98135 4.6194C1.77667 5.15481 0.986385 6.35399 1.0474 7.67088C1.3547 14.3035 3.21285 17.0496 8.27579 20.4046C9.31986 21.0965 10.6814 21.0981 11.725 20.4055C16.8085 17.0323 18.5934 14.2414 18.9372 7.68808C19.0068 6.3624 18.2152 5.15121 17.0021 4.61206L11.3538 2.10169C10.4919 1.71863 9.50809 1.71863 8.6462 2.10169Z" id="Security Rectangle"></path>
+<path stroke-linejoin="round" stroke-linecap="round" stroke-width="1.66667" stroke="#858E96" d="M7.00035 11.5L8.8777 13.0019C9.22593 13.2805 9.73177 13.2355 10.0254 12.8999L13.0004 9.5" id="Security Lock Icon"></path>
+</g>
+</svg>
